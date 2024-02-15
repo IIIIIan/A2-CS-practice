@@ -1,0 +1,24 @@
+Python code for A2 level programming part, will include:
+1. Linear Search
+2. Bubble Sort
+3. Insertion Sort
+4. Binary Search
+5. ADT
+    i. Linked List
+      a. Create new linked list
+      b. Insert new node
+      c. Find an element
+      d. Delete a node
+      e. Access all nodes
+    ii. Binary Trees
+      a. Create new tree
+      b. Insert new node
+      c. Find a node
+    iii. Stacks
+      a. Create new stack
+      b. Push an item
+      c. Pop an item
+    iv. Queues
+      a. Create new queue
+      b. Add an item
+      c. Remove an item
